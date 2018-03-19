@@ -1910,7 +1910,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 3.6rem;
 }
 
-.home-social i, .home-social span {
+/*.home-social i, .home-social span {
     position: absolute;
     top: 0;
     line-height: 3.6rem;
@@ -1938,7 +1938,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transform-origin: 100% 50%;
     -ms-transform-origin: 100% 50%;
     transform-origin: 100% 50%;
-}
+}*/
 
 /*.home-social li:hover span {
     opacity: 1;
