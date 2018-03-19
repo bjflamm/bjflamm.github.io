@@ -1910,7 +1910,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 3.6rem;
 }
 
-/*.home-social i, .home-social span {
+.home-social i, .home-social span {
     position: absolute;
     top: 0;
     line-height: 3.6rem;
@@ -1938,9 +1938,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transform-origin: 100% 50%;
     -ms-transform-origin: 100% 50%;
     transform-origin: 100% 50%;
-}*/
+}
 
-/*.home-social li:hover span {
+.home-social li:hover span {
     opacity: 1;
     visibility: visible;
     -webkit-transform: scale(1);
@@ -1952,7 +1952,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
-}*/
+}
 
 
 /* animate .home-content__main
