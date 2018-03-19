@@ -1885,7 +1885,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     padding-bottom: 18rem;
     position: absolute;
     bottom: 0;
-    right: 40px;
+    right: 35px;
 }
 
 .home-social::after {
