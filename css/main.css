@@ -1940,7 +1940,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     transform-origin: 100% 50%;
 }
 
-.home-social li:hover span {
+/*.home-social li:hover span {
     opacity: 1;
     visibility: visible;
     -webkit-transform: scale(1);
@@ -1952,7 +1952,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     -webkit-transform: scale(1);
     -ms-transform: scale(1);
     transform: scale(1);
-}
+}*/
 
 
 /* animate .home-content__main
