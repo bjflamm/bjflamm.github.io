@@ -3043,7 +3043,7 @@ html.no-csstransitions .home-content__main {
     background-color: #151515;
     
     background-repeat: no-repeat;
-    background-position: right, right;
+    background-position: center, right;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 255);
@@ -3054,8 +3054,8 @@ html.no-csstransitions .home-content__main {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     opacity: .75;
     background-color: #ffffff;
 }
