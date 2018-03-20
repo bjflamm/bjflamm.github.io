@@ -3040,10 +3040,10 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-contact {
-    background-color: black;
-    
+    background-color: #151515;
+    background-image: url("../images/taglit.jpg");
     background-repeat: no-repeat;
-    background-position: center, right;
+    background-position: right, right;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 255);
@@ -3054,10 +3054,10 @@ html.no-csstransitions .home-content__main {
     position: absolute;
     top: 0;
     left: 0;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     opacity: .75;
-    background-color: black;
+    background-color: #ffffff;
 }
 
 .s-contact .section-intro h1 {
