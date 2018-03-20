@@ -3040,7 +3040,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-contact {
-    background-color: #151515;
+    background-color: black;
     
     background-repeat: no-repeat;
     background-position: center, right;
@@ -3057,7 +3057,7 @@ html.no-csstransitions .home-content__main {
     width: 50%;
     height: 50%;
     opacity: .75;
-    background-color: #ffffff;
+    background-color: black;
 }
 
 .s-contact .section-intro h1 {
