@@ -7,15 +7,6 @@
 
 <head>
 
-
-<link rel="stylesheet" type="text/css" media="all" href="calendar-win2k-cold-1.css" title="win2k-cold-1">
-<script type="text/javascript" src="calendar.js"></script>
-<script type="text/javascript" src="lang/calendar-en.js"></script>
-<script type="text/javascript" src="calendar-setup.js"></script>
-<title>Page Title</title>
-
-
-
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
@@ -48,37 +39,6 @@
 
 <body id="top">
 
-
-
-    <form action="#" method="get">
-    <input type="text" name="date" id="f_date_a">
-    <input type="text" name="date" id="f_calcdate">
-    </form>
-    <div style="float: right; margin-left: 1em; margin-bottom: 1em;"
-    id="calendar-container"></div>
-
-    <script type="text/javascript">
-      function dateChanged(calendar) {
-        // Beware that this function is called even if the end-user only
-        // changed the month/year.  In order to determine if a date was
-        // clicked you can use the dateClicked property of the calendar:
-        if (calendar.dateClicked) {
-          // OK, a date was clicked, redirect to /yyyy/mm/dd/index.php
-          var y = calendar.date.getFullYear();
-          var m = calendar.date.getMonth();     // integer, 0..11
-          var d = calendar.date.getDate();      // integer, 1..31
-          // redirect...
-          window.location = "/" + y + "/" + m + "/" + d + "/index.php";
-        }
-      };
-
-      Calendar.setup(
-        {
-          flat         : "calendar-container", // ID of the parent element
-          flatCallback : dateChanged           // our callback function
-        }
-      );
-    </script>
     <!-- header
     ================================================== -->
     <header class="s-header">
