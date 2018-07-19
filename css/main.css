@@ -3046,8 +3046,8 @@ html.no-csstransitions .home-content__main {
     background-image: url("../images/taglit.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 12rem;
+    padding-bottom: 12rem
     color: rgba(255, 255, 255, 0.5);
     
 }
