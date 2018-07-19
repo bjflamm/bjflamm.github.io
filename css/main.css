@@ -3034,6 +3034,23 @@ html.no-csstransitions .home-content__main {
 
 
 
+
+
+/* ===================================================================
+ * # contact_photo - (_site-layout.scss)
+ *
+ * ------------------------------------------------------------------- */
+
+.s-contact_photo {
+    background-color: #151515;
+    background-image: url("../images/taglit.jpg");
+    background-repeat: no-repeat;
+    background-position: center, center;
+    padding-top: 13.2rem;
+    padding-bottom: 12rem;
+    color: rgba(255, 255, 255, 0.5);
+    position: relative;
+}
 /* ===================================================================
  * # contact - (_site-layout.scss)
  *
@@ -3041,7 +3058,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/taglit.jpg");
+    /*background-image: url("../images/taglit.jpg");*/
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;
