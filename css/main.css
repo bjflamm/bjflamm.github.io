@@ -3043,11 +3043,11 @@ html.no-csstransitions .home-content__main {
     background-color: #151515;
     background-image: url("../images/taglit.jpg");
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: center, center;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
-    position: left;
+    position: relative;
 }
 
 .s-contact .overlay {
