@@ -4,6 +4,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
+    position:center;
 }
 
 #myImg:hover {opacity: 0.7;}
@@ -11,7 +12,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
-    position: center; /* Stay in place */
+    position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
     padding-top: 100px; /* Location of the box */
     left: 0;
@@ -29,7 +30,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
     display: block;
     width: 80%;
     max-width: 700px;
-    position: center,center;
 }
 
 /* Caption of Modal Image */
