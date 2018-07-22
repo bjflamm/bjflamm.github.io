@@ -39,7 +39,7 @@
     <!-- img styling/scripting
     ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
 </head>
 
 
@@ -91,6 +91,19 @@
     
         </div> <!-- end page-header -->
 
+        <!--START JUICEBOX EMBED-->
+        <script src="jbcore/juicebox.js"></script>
+        <script>
+        new juicebox({
+        containerId: "juicebox-container",
+        galleryWidth: "100%",
+        galleryHeight: "100%",
+        backgroundColor: "rgba(34,34,34,1)"
+        });
+        </script>
+        <div id="juicebox-container"></div>
+        <!--END JUICEBOX EMBED-->
+        
         <div class="row blog-content">
             <div class="col-full blog-content__main">
             <p> Below is the final project abstract for BMED 4739 (Medical Robotics) taught by Dr. Jaydev Desai of the Institute of Robotics and Intelligent Machines. I'd like to thank Joanna for all of her work on the project and Dr. Desai for his mentorship. [The embedded abstract .pdf is not compatible on cellular devices :( ]
