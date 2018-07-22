@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery>
+  <image imageURL="images/kyle_arch.jpg"
+	thumbURL="thumbs/kyle_arch.jpg"
+	linkURL="images/kyle_arch.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/kyle_arch.jpg"
+
+>
+    <title><![CDATA[Arch of St. Louis]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/canyon.jpg"
+	thumbURL="thumbs/canyon.jpg"
+	linkURL="images/canyon.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/canyon.jpg">
+    <title><![CDATA[Tenaya Canyon]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/famous_cabin.jpg"
+	thumbURL="thumbs/famous_cabin.jpg"
+	linkURL="images/famous_cabin.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/famous_cabin.jpg">
+    <title><![CDATA[T.A. Moulton Barn]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/first_hike0.jpg"
+	thumbURL="thumbs/first_hike0.jpg"
+	linkURL="images/first_hike0.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/first_hike0.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/first_hike.jpg"
+	thumbURL="thumbs/first_hike.jpg"
+	linkURL="images/first_hike.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/first_hike.jpg">
+    <title><![CDATA[Grand Tetons]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/grand_teton.jpg"
+	thumbURL="thumbs/grand_teton.jpg"
+	linkURL="images/grand_teton.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/grand_teton.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/grand_teton0.jpg"
+	thumbURL="thumbs/grand_teton0.jpg"
+	linkURL="images/grand_teton0.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/grand_teton0.jpg">
+    <title><![CDATA[grand_teton0]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/hot_spring.jpg"
+	thumbURL="thumbs/hot_spring.jpg"
+	linkURL="images/hot_spring.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/hot_spring.jpg">
+    <title><![CDATA[Mammoth Hot Springs]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/majestic.jpg"
+	thumbURL="thumbs/majestic.jpg"
+	linkURL="images/majestic.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/majestic.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ponds.jpg"
+	thumbURL="thumbs/ponds.jpg"
+	linkURL="images/ponds.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/ponds.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/river.jpg"
+	thumbURL="thumbs/river.jpg"
+	linkURL="images/river.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/river.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/view_from_lodge.jpg"
+	thumbURL="thumbs/view_from_lodge.jpg"
+	linkURL="images/view_from_lodge.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/view_from_lodge.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
