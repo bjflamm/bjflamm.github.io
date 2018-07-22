@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/cats.jpg"
+	thumbURL="thumbs/cats.jpg"
+	linkURL="images/cats.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/cats.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cemetery.jpg"
+	thumbURL="thumbs/cemetery.jpg"
+	linkURL="images/cemetery.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/cemetery.jpg">
+    <title><![CDATA[Battonstrasse Jewish Cemetery]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/stone.jpg"
+	thumbURL="thumbs/stone.jpg"
+	linkURL="images/stone.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/stone.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/shul.jpg"
+	thumbURL="thumbs/shul.jpg"
+	linkURL="images/shul.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/shul.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cemetery01.jpg"
+	thumbURL="thumbs/cemetery01.jpg"
+	linkURL="images/cemetery01.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/cemetery01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cemetery00.jpg"
+	thumbURL="thumbs/cemetery00.jpg"
+	linkURL="images/cemetery00.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/cemetery00.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/chapel.jpg"
+	thumbURL="thumbs/chapel.jpg"
+	linkURL="images/chapel.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/chapel.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/eras.jpg"
+	thumbURL="thumbs/eras.jpg"
+	linkURL="images/eras.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/eras.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jesus_timeline0.jpg"
+	thumbURL="thumbs/jesus_timeline0.jpg"
+	linkURL="images/jesus_timeline0.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/jesus_timeline0.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/jesus_timeline01.jpg"
+	thumbURL="thumbs/jesus_timeline01.jpg"
+	linkURL="images/jesus_timeline01.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/jesus_timeline01.jpg">
+    <title><![CDATA[Karmeliterkloster]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/markt.jpg"
+	thumbURL="thumbs/markt.jpg"
+	linkURL="images/markt.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/markt.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/marktplatz.jpg"
+	thumbURL="thumbs/marktplatz.jpg"
+	linkURL="images/marktplatz.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/marktplatz.jpg">
+    <title><![CDATA[Marktplatz]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/nietzsche.jpg"
+	thumbURL="thumbs/nietzsche.jpg"
+	linkURL="images/nietzsche.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/nietzsche.jpg">
+    <title><![CDATA[House of Johann Wolfgang Goethe]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/opera_house.jpg"
+	thumbURL="thumbs/opera_house.jpg"
+	linkURL="images/opera_house.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/frankfurt_2015/opera_house.jpg">
+    <title><![CDATA[Opera House]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/castle_view_from_gardens.jpg"
+	thumbURL="thumbs/castle_view_from_gardens.jpg"
+	linkURL="images/castle_view_from_gardens.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/castle_view_from_gardens.jpg">
+    <title><![CDATA[Heidelberg Castle]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/castle_view_from_oldtown.jpg"
+	thumbURL="thumbs/castle_view_from_oldtown.jpg"
+	linkURL="images/castle_view_from_oldtown.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/castle_view_from_oldtown.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/inside_view.jpg"
+	thumbURL="thumbs/inside_view.jpg"
+	linkURL="images/inside_view.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/inside_view.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/neighborhood.jpg"
+	thumbURL="thumbs/neighborhood.jpg"
+	linkURL="images/neighborhood.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/neighborhood.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/stone_date.jpg"
+	thumbURL="thumbs/stone_date.jpg"
+	linkURL="images/stone_date.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/stone_date.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/view_from_philosphers_weg.jpg"
+	thumbURL="thumbs/view_from_philosphers_weg.jpg"
+	linkURL="images/view_from_philosphers_weg.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/heidelberg_2015/view_from_philosphers_weg.jpg">
+    <title><![CDATA[Philosopher's Way]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
