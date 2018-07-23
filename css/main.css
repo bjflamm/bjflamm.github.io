@@ -1269,10 +1269,10 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h3 {
     font-family: "montserrat-bold", sans-serif;
-    font-size: 5rem;
-    color: #862121;
+    font-size: 1.8rem;
+    color: #000000; /*862121*/
     text-transform: uppercase;
-    letter-spacing: 1rem;
+    letter-spacing: .5rem;
     position: relative;
     padding-left: 80px;
     margin-left: -30px;
@@ -2083,7 +2083,31 @@ html.no-csstransitions .home-content__main {
 }
 
 
+/* ------------------------------------------------------------------- 
+ * responsive:
+ * contact
+ * ------------------------------------------------------------------- */
 
+@media only screen and (max-width: 800px) {
+    .contact__form {
+        padding-right: 15px;
+    }
+    .contact__infos {
+        padding-top: 3rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .contact__form {
+        padding-right: 10px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .contact__form {
+        padding-right: 0;
+    }
+}
 
 
 
