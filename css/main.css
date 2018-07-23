@@ -1768,6 +1768,7 @@ html.no-csstransitions .home-content__main {
 
 .timeline__header h5 {
     margin-top: 0;
+    padding-bottom: 5rem;
 }
 
 .timeline__desc p {
