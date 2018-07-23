@@ -2083,31 +2083,7 @@ html.no-csstransitions .home-content__main {
 }
 
 
-/* ------------------------------------------------------------------- 
- * responsive:
- * contact
- * ------------------------------------------------------------------- */
 
-@media only screen and (max-width: 800px) {
-    .contact__form {
-        padding-right: 15px;
-    }
-    .contact__infos {
-        padding-top: 3rem;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    .contact__form {
-        padding-right: 10px;
-    }
-}
-
-@media only screen and (max-width: 400px) {
-    .contact__form {
-        padding-right: 0;
-    }
-}
 
 
 
