@@ -1694,13 +1694,13 @@ html.no-csstransitions .home-content__main {
 
 .s-about {
     padding-top: 15rem;
-    padding-bottom: 4rem; /*9*/
+    padding-bottom: 1.6rem; /*9*/
     background-color: #FFFFFF;
     position: relative;
 }
 
 .about-content {
-    margin-bottom: 3rem;
+    margin-bottom: 1.6rem;
 }
 
 .about-content .left {
