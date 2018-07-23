@@ -1736,7 +1736,7 @@ html.no-csstransitions .home-content__main {
 .timeline__block {
     position: relative;
     padding-left: 8rem;
-    min-height: 28.8rem;
+    min-height: 15rem; /*28.8*/
 }
 
 .timeline__bullet {
@@ -2007,8 +2007,6 @@ html.no-csstransitions .home-content__main {
 .s-contact .section-intro.has-bottom-sep::after {
     background-color: rgba(255, 255, 255, 0.1);
 }
-
-
 
 .contact__main {
     max-width: 900px;
