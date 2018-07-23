@@ -160,7 +160,7 @@ h2, .h02 {
 }
 
 h3, .h03 {
-    font-size: 5rem;
+    font-size: 2.4rem;
     line-height: 1.25;
 }
 
@@ -1270,7 +1270,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-bold", sans-serif;
     font-size: 1.8rem;
-    color: #ffffff; /*862121*/
+    color: #862121;
     text-transform: uppercase;
     letter-spacing: .5rem;
     position: relative;
@@ -1652,7 +1652,7 @@ html.no-csstransitions .home-content__main {
         min-height: 654px;
     }
     .home-content h3 {
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
     .home-content h1 {
         font-size: 3.8rem;
