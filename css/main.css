@@ -1700,6 +1700,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .about-content {
+    margin-top: 1.6rem;
     /*margin-bottom: 1.6rem;*/
 }
 
