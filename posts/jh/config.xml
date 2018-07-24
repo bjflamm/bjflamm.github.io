@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <juiceboxgallery>
-  <image imageURL="images/kyle_arch.jpg"
-	thumbURL="thumbs/kyle_arch.jpg"
-	linkURL="images/kyle_arch.jpg"
+  <image imageURL="images/view_from_lodge.jpg"
+	thumbURL="thumbs/view_from_lodge.jpg"
+	linkURL="images/view_from_lodge.jpg"
 	linkTarget="_blank"
-	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/kyle_arch.jpg"
-
->
-    <title><![CDATA[Arch of St. Louis]]></title>
+	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/view_from_lodge.jpg">
+    <title><![CDATA[]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/canyon.jpg"
@@ -88,14 +86,6 @@
 	linkURL="images/river.jpg"
 	linkTarget="_blank"
 	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/river.jpg">
-    <title><![CDATA[]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/view_from_lodge.jpg"
-	thumbURL="thumbs/view_from_lodge.jpg"
-	linkURL="images/view_from_lodge.jpg"
-	linkTarget="_blank"
-	sourcePath="/Users/bjflamm/Documents/External_HD_Photos/bjflamm_gh/jackson_hole_2014/view_from_lodge.jpg">
     <title><![CDATA[]]></title>
     <caption><![CDATA[]]></caption>
   </image>
