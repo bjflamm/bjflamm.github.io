@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery>
+<juiceboxgallery 
+
+	useThumbDots="false"
+
+>
   <image imageURL="images/birthright286.jpg"
 	thumbURL="thumbs/birthright286.jpg"
 	linkURL="images/birthright286.jpg"
 	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/birthright286.jpg">
     <title><![CDATA[Birthright Bus 286]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -12,6 +17,7 @@
 	thumbURL="thumbs/caesarea.jpg"
 	linkURL="images/caesarea.jpg"
 	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/caesarea.jpg">
     <title><![CDATA[Caesarea]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -19,13 +25,15 @@
 	thumbURL="thumbs/churchnativity.jpg"
 	linkURL="images/churchnativity.jpg"
 	linkTarget="_blank"
-    <title><![CDATA[Bethlehem - Church of the Nativity]]></title>
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/churchnativity.jpg">
+    <title><![CDATA[Church of the Nativity]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/masada.jpg"
 	thumbURL="thumbs/masada.jpg"
 	linkURL="images/masada.jpg"
 	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/masada.jpg">
     <title><![CDATA[Masada]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -33,6 +41,7 @@
 	thumbURL="thumbs/meron.jpg"
 	linkURL="images/meron.jpg"
 	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/meron.jpg">
     <title><![CDATA[Mt. Meron]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -40,13 +49,15 @@
 	thumbURL="thumbs/yadvashem.jpg"
 	linkURL="images/yadvashem.jpg"
 	linkTarget="_blank"
-    <title><![CDATA[Yad Vashem - Holocaust Memorial]]></title>
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/yadvashem.jpg">
+    <title><![CDATA[Yad Vashem]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/yerushalayim.jpg"
 	thumbURL="thumbs/yerushalayim.jpg"
 	linkURL="images/yerushalayim.jpg"
 	linkTarget="_blank"
+	sourcePath="/Users/bjflamm/Documents/bjflamm.github.io/posts/rtc2/images/yerushalayim.jpg">
     <title><![CDATA[Jerusalem]]></title>
     <caption><![CDATA[]]></caption>
   </image>
