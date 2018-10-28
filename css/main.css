@@ -1721,7 +1721,7 @@ html.no-csstransitions .home-content__main {
 .timeline {
     position: relative;
     text-align: left;
-    margin-top: 1.8rem;
+    margin-top: 1.5rem;
 }
 
 .timeline::before {
