@@ -30,3 +30,9 @@ header {
     height: 150px;
     text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
