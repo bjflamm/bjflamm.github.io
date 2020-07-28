@@ -60,4 +60,5 @@ header {
 
 .column {
   flex: 50%;
+  padding-top: 10px;
 }
