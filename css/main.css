@@ -1,3 +1,7 @@
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
 body {
     width: 90%;
     margin: 0 auto;
@@ -23,13 +27,8 @@ header {
 }
 
 /* Main content */
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
-}
 
-.home-about {
-    padding-left: 10px;
-}
+
 
 .nav{
     border:1px solid #ccc;
@@ -54,4 +53,8 @@ header {
 .column {
   flex: 50%;
   padding-top: 10px;
+}
+
+.home-about {
+    padding-left: 10px;
 }
