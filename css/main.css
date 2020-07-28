@@ -48,3 +48,12 @@ header {
 .main {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
