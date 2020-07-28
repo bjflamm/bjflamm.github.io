@@ -43,6 +43,7 @@ header {
 .nav li{
     display:inline;
     border-right:solid 1px #000;
+    color: #000;
 }
 
 .nav li:last-child{
