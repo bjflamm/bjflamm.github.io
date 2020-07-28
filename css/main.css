@@ -36,6 +36,7 @@ header {
 }
 .nav li{
     display:inline;
+    border-right:solid 1px #fff;
 }
 .nav a{
     display:inline-block;
