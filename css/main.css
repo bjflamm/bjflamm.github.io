@@ -10,6 +10,7 @@ body {
 header {
     margin-top: 20px;
     padding-bottom: 10px;
+    background-image: url("images/paper.png");
 }
 
 .center {
