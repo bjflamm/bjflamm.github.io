@@ -22,30 +22,34 @@ header {
     padding-top: 10px;
 }
 
-/* The navigation bar */
-.navbar {
-  position: center; /* Set the navbar to fixed position */
-  top: 100; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-}
-
-/* Links inside the navbar */
-.navbar a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.topnav a {
+  float: left;
+  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 
-/* Change background on mouse-over */
-.navbar a:hover {
-  background: #ddd;
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
   color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Centered section inside the top navigation */
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* Main content */
