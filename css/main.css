@@ -19,7 +19,7 @@ header {
   width: 50%;
 }
 
-/*.logo-row {
+.logo-row {
     width: 150px;
     margin: 0 auto;
 }
@@ -31,7 +31,7 @@ header {
     padding-left: 15px;
     padding-top: 10px;
 }
-*/
+
 .nav{
     border:1px solid #ccc;
     border-width:1px 0;
