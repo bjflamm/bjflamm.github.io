@@ -69,6 +69,7 @@ header {
 .home-about-title {
     text-align: center;
     text-decoration: underline;
+    text-decoration-color: black;
 }
 
 .home-about-text {
