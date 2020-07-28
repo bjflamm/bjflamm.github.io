@@ -44,6 +44,11 @@ header {
     display:inline;
     border-right:solid 1px #000;
 }
+
+.nav li:last-child{
+    display:inline;
+
+}
 .nav a{
     display:inline-block;
     text-decoration: none;
