@@ -65,6 +65,11 @@ header {
   padding-top: 10px;
 }
 
-.home-about {
+.home-about-title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.home-about-text {
     text-align: center;
 }
