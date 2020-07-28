@@ -13,7 +13,17 @@ header {
     border-bottom: 2px solid #b5b5b5;
 }
 
-.logo-row {
+.logo { 
+  width: auto;
+  height: auto;
+  text-align:center;
+}
+
+.logo img {
+  display:inline-block;
+} 
+
+/*.logo-row {
     width: 150px;
     margin: 0 auto;
 }
@@ -25,7 +35,7 @@ header {
     padding-left: 15px;
     padding-top: 10px;
 }
-
+*/
 .nav{
     border:1px solid #ccc;
     border-width:1px 0;
