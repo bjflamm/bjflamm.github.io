@@ -46,8 +46,8 @@ header {
 
 /* Centered section inside the top navigation */
 .topnav-centered a {
-  float: none;
-  position: absolute;
+  float: center;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
