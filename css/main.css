@@ -58,6 +58,10 @@ header {
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
+.home-about {
+    padding-left: 10px;
+}
+
 
 .row {
   display: flex;
