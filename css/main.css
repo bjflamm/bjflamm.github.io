@@ -12,15 +12,12 @@ header {
     padding-bottom: 10px;
 }
 
-.logo { 
-  width: auto;
-  height: auto;
-  text-align:center;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-
-.logo img {
-  display:inline-block;
-} 
 
 /*.logo-row {
     width: 150px;
