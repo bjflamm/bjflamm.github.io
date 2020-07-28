@@ -6,7 +6,7 @@ body {
 header {
     margin-top: 20px;
     padding-bottom: 10px;
-    border-bottom: 2px solid #b5b5b5;
+    
 }
 
 .logo-row {
@@ -29,6 +29,7 @@ header {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border-bottom: 2px solid #b5b5b5;
 }
 
 /* Change the color of links on hover */
