@@ -39,7 +39,7 @@ header {
   left: 0;    /*change it to 50%, if you want the text only shows in the half part */
   right: 0;
   background: rgba(27,61,88, 0.8);
-  color: #ffffff;
+  color: #000000;
   visibility: hidden;
   opacity: 0;
   display: flex;
