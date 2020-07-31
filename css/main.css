@@ -32,25 +32,6 @@ header {
     padding-top: 10px;
 }*/
 
-.img__description_layer {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;    /*change it to 50%, if you want the text only shows in the half part */
-  right: 0;
-  background: rgba(27,61,88, 0.8);
-  color: #000000;
-  visibility: hidden;
-  opacity: 0;
-  display: flex;
-  align-items: center;
-  text-align:center;
-  font-family: 'proxima_nova_ltsemibold';
-  box-shadow:f 0px 0px 0px 4000px rgba(27, 61, 88, 0.5) inset;
-  /* transition effect. not necessary */
-  transition: opacity ease-in-out 0.4s, visibility ease-in-out 0.4s;
-  /*transition: box-shadow 0.4s ease-in-out;*/
-}
 
 .nav{
     border-bottom: 1px solid #ccc;
