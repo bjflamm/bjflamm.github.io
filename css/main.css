@@ -72,6 +72,8 @@ header {
   opacity: 50%;
   text-align: center;
   border-right: solid 5px #fff;
+  box-shadow: 0 0 0 100px inset,
+      0 0 5px grey;
 }
 .column {
   flex: 50%;
@@ -86,7 +88,6 @@ header {
     width: 75%;
     padding: 20px;
     align-items: center;
-    box-shadow: 0 0 0 100px inset,
-      0 0 5px grey;
+
     
 }
