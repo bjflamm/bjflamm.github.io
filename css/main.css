@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    margin-top: 20px;
+    
     text-align: center;
     width: 100%;
     background-image: url("images/paper.png");
@@ -63,6 +63,7 @@ header {
 }
 
 .header-text {
+    margin-top: 20px;
     text-align: left;
     text-decoration-color: black;
     font-family: "Courier New", Courier, monospace;
