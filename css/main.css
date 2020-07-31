@@ -70,6 +70,7 @@ header {
     text-align: left;
     text-decoration-color: black;
     font-family: "Courier New", Courier, monospace;
+    padding-bottom: 10px;
 }
 
 .column {
