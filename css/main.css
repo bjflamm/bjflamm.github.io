@@ -75,6 +75,7 @@ header {
     text-align: center;
     text-decoration: underline;
     text-decoration-color: black;
+    font-family: "Courier New", Courier, monospace;
 }
 
 .home-about-text {
