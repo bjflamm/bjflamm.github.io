@@ -66,6 +66,11 @@ header {
   display: flex;
 }
 
+.header-column {
+    flex: 50%;
+    text-align: left;
+}
+
 .column {
   flex: 50%;
   padding-top: 20px;
