@@ -57,6 +57,8 @@ header {
 .header-column {
     flex: 50%;
     text-align: left;
+    border-bottom: 1px solid #ccc;
+    border-width:1px 0;
 }
 
 .header-text {
