@@ -79,13 +79,13 @@ header {
 
 }
 
-.img-column img{
+/*.img-column img{
     height: 100%;
     width: 100%;
     padding: 20px;
     align-items: center;
     
-}
+}*/
 
 .column {
   flex: 50%;
