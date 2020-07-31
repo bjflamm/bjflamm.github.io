@@ -59,6 +59,7 @@ header {
     margin:0;
     padding:0;
     text-align:right;
+    font-family: "Courier New", Courier, monospace;
 }
 .nav li{
     display:inline;
