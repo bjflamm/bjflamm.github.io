@@ -50,6 +50,7 @@ header {
 
 .row {
   display: flex;
+  padding-top: 20px;
 }
 
 .header-column {
