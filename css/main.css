@@ -68,10 +68,12 @@ header {
   flex: 50%;
   padding-top: 20px;
   background-color: #ccc;
+  text-align: center;
 }
 
 .column img{
     height: 75%;
     width: 80%;
     padding: 10px;
+    align-items: center;
 }
