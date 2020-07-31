@@ -65,10 +65,6 @@ header {
     padding-bottom: 10px;
 }
 
-.header-text h1{
-    padding-top: none;
-}
-
 .img-column {
   flex: 50%;
   padding-top: 20px;
