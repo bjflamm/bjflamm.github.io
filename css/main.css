@@ -52,6 +52,7 @@ header {
   display: flex;
   padding-top: 20px;
 }
+/*may need to separate header from home row*/
 
 .header-column {
     flex: 50%;
