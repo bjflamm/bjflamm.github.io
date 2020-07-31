@@ -8,7 +8,6 @@ body {
 }
 
 header {
-    
     text-align: center;
     width: 100%;
     border-bottom: 1px solid #ccc;
@@ -55,10 +54,10 @@ header {
 .header-column {
     flex: 50%;
     text-align: left;
+    margin-top: 20px;
 }
 
 .header-text {
-    margin-top: 20px;
     text-align: left;
     text-decoration-color: black;
     font-family: "Courier New", Courier, monospace;
