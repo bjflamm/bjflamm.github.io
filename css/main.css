@@ -40,11 +40,12 @@ header {
     margin:0;
     padding:0;
     text-align:right;
-    font-family: "Courier New", Courier, monospace;
+    
 }
 .nav li{
     display:inline;
     border-right:solid 1px #000;
+    font-family: "Courier New", Courier, monospace;
     
 }
 
