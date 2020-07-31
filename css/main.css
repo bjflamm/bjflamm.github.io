@@ -74,15 +74,8 @@ header {
   border-right: solid 5px #fff;
 
 }
-.column {
-  flex: 50%;
-  padding-top: 20px;
-  background-color: #ccc;
-  opacity: 50%;
-  text-align: center;
-}
 
-.column img{
+.img-column img{
     height: 25%;
     width: 25%;
     padding: 20px;
@@ -91,3 +84,13 @@ header {
       0 0 5px grey;
     
 }
+
+.column {
+  flex: 50%;
+  padding-top: 20px;
+  background-color: #ccc;
+  opacity: 50%;
+  text-align: center;
+}
+
+
