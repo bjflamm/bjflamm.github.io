@@ -67,6 +67,7 @@ header {
 .column {
   flex: 50%;
   padding-top: 20px;
+  background-color: #ccc;
 }
 
 .column img{
