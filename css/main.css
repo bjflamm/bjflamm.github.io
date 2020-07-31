@@ -71,6 +71,12 @@ header {
     text-align: left;
 }
 
+.header-text {
+    text-align: left;
+    text-decoration-color: black;
+    font-family: "Courier New", Courier, monospace;
+}
+
 .column {
   flex: 50%;
   padding-top: 20px;
