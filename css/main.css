@@ -53,12 +53,6 @@ header {
     padding:10px;
 }
 
-.nav li::active{
-    text-decoration: underline;
-    text-decoration: bold;
-    color: #000;
-    padding:10px;
-}
 
 .row {
   display: inline-flex;
