@@ -15,7 +15,11 @@ header {
     padding-bottom: 5px;
 }
 
-
+.illustration{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
 
 .nav{
     list-style:none;
