@@ -24,7 +24,7 @@ header {
 .nav{
     list-style:none;
     margin:0;
-    padding:10px;
+    padding-top:50px;
     /*text-align:right;*/
     
 }
@@ -61,7 +61,7 @@ header {
 }
 
 .row {
-  display: flex;
+  display: inline-flex;
   padding-top: 20px;
 }
 /*may need to separate header from home row*/
