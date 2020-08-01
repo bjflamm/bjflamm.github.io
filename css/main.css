@@ -45,7 +45,6 @@ header {
 }
 
 .nav a:active{
-    display:inline-block;
     text-decoration: underline;
     text-decoration: bold;
     color: #000;
