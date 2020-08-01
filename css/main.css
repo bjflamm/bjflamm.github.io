@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    text-align: right;
+    text-align: left;
     width: 100%;
     border-bottom: 1px solid #ccc;
     border-width:1px 0;
@@ -53,7 +53,7 @@ header {
     padding:10px;
 }
 
-.nav a::active{
+.nav li::active{
     text-decoration: underline;
     text-decoration: bold;
     color: #000;
