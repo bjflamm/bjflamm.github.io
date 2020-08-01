@@ -17,7 +17,7 @@ header {
 
 .illustration{
     width: 250px;
-    height: 300px;
+    height: 200px;
     text-align: center;
 }
 
@@ -61,7 +61,7 @@ header {
 }
 
 .row {
-  display: inline-block;
+  display: flex;
   padding-top: 20px;
 }
 /*may need to separate header from home row*/
