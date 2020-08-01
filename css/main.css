@@ -53,7 +53,7 @@ header {
     padding:10px;
 }
 
-.nav a:active{
+.nav a::active{
     text-decoration: underline;
     text-decoration: bold;
     color: #000;
