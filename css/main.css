@@ -61,7 +61,7 @@ header {
 }
 
 .row {
-  display: flex;
+  display: inline-block;
   padding-top: 20px;
 }
 /*may need to separate header from home row*/
