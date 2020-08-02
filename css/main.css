@@ -2,6 +2,11 @@
   margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
+#container {
+   min-height:100%;
+   position:relative;
+}
+
 body {
     width: 90%;
     margin: 0 auto;
