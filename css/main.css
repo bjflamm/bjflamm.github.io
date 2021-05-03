@@ -1805,6 +1805,18 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin-bottom: -1.5px;
 }
 
+.home-content h1::after {
+    display: block;
+    content: "";
+    width: 60px;
+    height: 2px;
+    background-color: #862121;
+    margin-top: -1.5px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+
 .home-content__main {
     padding-right: 300px;
     position: relative;
