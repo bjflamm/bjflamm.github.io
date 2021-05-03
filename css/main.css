@@ -2106,7 +2106,7 @@ html.no-csstransitions .home-content__main {
     }
     .home-content__buttons {
         position: static;
-        text-align: left;
+        text-align: right;
     }
     .home-content__buttons .btn {
         display: inline-block;
