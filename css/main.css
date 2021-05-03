@@ -1820,6 +1820,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__main {
     padding-right: 300px;
     position: relative;
+    top: 50px;
 }
 
 .home-content__buttons {
