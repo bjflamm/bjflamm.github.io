@@ -1802,6 +1802,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6rem;
     line-height: 1.35;
     margin-top: 0;
+    margin-bottom: -1.5px;
 }
 
 .home-content__main {
