@@ -152,7 +152,7 @@ h5, .h05, h6, .h06 {
 h1, .h01 {
     font-family: "montserrat-bold", sans-serif;
     font-size: 3.6rem;
-    line-height: 1.25;
+    /*line-height: 1.25;*/
     letter-spacing: -.1rem;
 }
 
