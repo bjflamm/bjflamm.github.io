@@ -1805,7 +1805,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin-bottom: -1.5px;
 }
 
-.home-content h1::after {
+/*.home-content h1::after {
     display: block;
     content: "";
     width: 60px;
@@ -1815,7 +1815,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: absolute;
     left: 0;
     top: 50%;
-}
+}*/
 
 .home-content__main {
     padding-right: 300px;
